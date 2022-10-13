@@ -1,5 +1,5 @@
 function myFirstApp(name, age) {
-    alert(`Привет! Меня зовут ${name}. Это моя первая программа.`);
+    console.log(`Привет! Меня зовут ${name}. Это моя первая программа.`);
     showSkills();
     checkAge();
     calcPow(5);
