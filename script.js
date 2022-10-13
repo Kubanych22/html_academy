@@ -23,4 +23,4 @@ function myFirstApp(name, age) {
         console.log(Math.pow(num, 2));
     }
 }
-myFirstApp('Ivan', 14);
+myFirstApp('Ivan', 68);
